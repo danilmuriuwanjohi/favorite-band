@@ -4,3 +4,7 @@ html {
     background: url("http://bit.ly/kings_college_chapel") no-repeat center fixed;
     background-size: cover;
   }
+header,p{
+    font-weight: bold;
+    font-style: italic;
+}
